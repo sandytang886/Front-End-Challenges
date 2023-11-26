@@ -5,7 +5,7 @@ This repository contains a collection of front-end challenge. Each challenge is 
 
 | SN  | Challenges                                                                                                                                       |                                                Live Preview                                                 |
 | :-: | ------------------------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------: |
-| 01  | [Interactive card details form](url)                     |      [Live Preview](url)      |
+| 01  | [feature](url)                     |      [Live Preview](url)      |
 
 ### Built with
 

@@ -5,8 +5,9 @@ This repository contains a collection of front-end challenge. Each challenge is 
 
 | SN  | Challenges                                                                                                                                       |                                                Live Preview                                                 |
 | :-: | ------------------------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------: |
-| 01  | [feature](url)                     |      [Live Preview](url)      |
-
+| 01  | [Newsletter sign-up form](url)                     |      [Live Preview](url)      |
+| 02  | [Order summary component](url)                     |      [Live Preview](url)      |
+| 03  | [Toast Notification Component](url)                |      [Live Preview](url)      |
 ### Built with
 
 - HTML5
